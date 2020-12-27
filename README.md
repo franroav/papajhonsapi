@@ -34,6 +34,9 @@
 
 ## Raw data
 
+URL: http://automationpractice.com/index.php
+LOGIN: http://automationpractice.com/index.php?controller=authentication&back=my-account
+
 1.-) Login, Raw data object:
 Example: {"username":"franroav@webkonce.cl","password":"@ijPWqPapL97kJZ"}
 
