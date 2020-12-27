@@ -44,11 +44,6 @@ export class IndexModel {
     } catch (error) {
       res.status(404).json({ message: "Something Went Wrong", error: error });
     }
-
-    /*if (users.length > 0) {
-      res.send(users);
-    } else {
-    }*/
   };
 
   // BANNER

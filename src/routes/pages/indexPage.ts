@@ -2,7 +2,7 @@
  * @author Francisco Roa <franroav@webkonce.cl>
  */
 
-import { IndexController } from "./../controller/IndexController";
+import { IndexController } from "../../controller/IndexController";
 import { Router } from "express";
 const router = Router();
 
