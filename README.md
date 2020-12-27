@@ -62,8 +62,8 @@ Example: {
 "alias":"Milla verde"
 }
 
-## BITBUCKET REPOSITORY
+## GITHUB REPOSITORY
 
 You can use this repository aswell:
 
-git clone https://webkonce-admin@bitbucket.org/webkonce/papajhonapp.git
+git clone https://github.com/franroav/papajhonsapi.git
